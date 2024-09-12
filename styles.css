@@ -1,7 +1,7 @@
 body {
-    background-color: #032B44; /* Dark blue background */
-    font-family: 'Montserrat', sans-serif; /* Google Font */
-    color: #34AADC; /* Neon blue text */
+    background-color: #032B44; 
+    font-family: 'Montserrat', sans-serif; 
+    color: #34AADC; 
 }
 
 header {
@@ -20,6 +20,9 @@ header nav ul {
 
 header nav ul li {
     margin-right: 20px;
+}
+header nav ul li :hover {
+    color: yellow;
 }
 
 header nav a {
